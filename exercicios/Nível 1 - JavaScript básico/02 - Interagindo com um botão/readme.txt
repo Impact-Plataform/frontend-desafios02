@@ -1,0 +1,1 @@
+Crie uma função chamada "clicou" que emite um alerta caso o usuário clique no botão.
